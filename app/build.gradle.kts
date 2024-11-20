@@ -7,6 +7,8 @@ plugins {
     id("org.jetbrains.kotlin.jvm")
 }
 
+version = "0.0.1"
+
 application {
     mainClass.set("test.obfuscator.kotlin.AppKt")
 }
