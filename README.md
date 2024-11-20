@@ -1,0 +1,2 @@
+# KotlinObfuscatorSample
+Kotlin obfuscator sample.
